@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 JAN 2024 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 JAN 2024 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -260,7 +260,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
@@ -273,37 +273,37 @@ This may cause the page layout to be inconsistent, however.
 [1{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 <2.2.1a.png, id=12, 518.93875pt x 281.05pt>
 File: 2.2.1a.png Graphic file (type png)
 <use 2.2.1a.png>
-Package pdftex.def Info: 2.2.1a.png  used on input line 65.
+Package pdftex.def Info: 2.2.1a.png  used on input line 66.
 (pdftex.def)             Requested size: 259.46873pt x 140.52464pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--86
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
@@ -317,35 +317,35 @@ This may cause the page layout to be inconsistent, however.
 <2.2.1b.png, id=21, 361.35pt x 235.88126pt>
 File: 2.2.1b.png Graphic file (type png)
 <use 2.2.1b.png>
-Package pdftex.def Info: 2.2.1b.png  used on input line 100.
+Package pdftex.def Info: 2.2.1b.png  used on input line 101.
 (pdftex.def)             Requested size: 180.67456pt x 117.94034pt.
 <2.2.1b2.png, id=22, 361.35pt x 235.88126pt>
 File: 2.2.1b2.png Graphic file (type png)
 <use 2.2.1b2.png>
-Package pdftex.def Info: 2.2.1b2.png  used on input line 101.
+Package pdftex.def Info: 2.2.1b2.png  used on input line 102.
 (pdftex.def)             Requested size: 180.67456pt x 117.94034pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--102
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
 <2.2.1c.png, id=23, 361.35pt x 230.8625pt>
 File: 2.2.1c.png Graphic file (type png)
 <use 2.2.1c.png>
-Package pdftex.def Info: 2.2.1c.png  used on input line 109.
+Package pdftex.def Info: 2.2.1c.png  used on input line 110.
 (pdftex.def)             Requested size: 180.67456pt x 115.43095pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--110
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
@@ -354,15 +354,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
 <2.2.1d.png, id=27, 361.35pt x 231.86626pt>
 File: 2.2.1d.png Graphic file (type png)
 <use 2.2.1d.png>
-Package pdftex.def Info: 2.2.1d.png  used on input line 124.
+Package pdftex.def Info: 2.2.1d.png  used on input line 125.
 (pdftex.def)             Requested size: 180.67456pt x 115.93283pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
@@ -370,45 +370,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 <2.2.1d_py.png, id=31, 462.528pt x 346.896pt>
 File: 2.2.1d_py.png Graphic file (type png)
 <use 2.2.1d_py.png>
-Package pdftex.def Info: 2.2.1d_py.png  used on input line 149.
+Package pdftex.def Info: 2.2.1d_py.png  used on input line 150.
 (pdftex.def)             Requested size: 231.26343pt x 173.44757pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--150
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
 
  []
 
 [5 <./2.2.1d_py.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 165--167
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
 <2.2.2a.png, id=37, 361.35pt x 230.8625pt>
 File: 2.2.2a.png Graphic file (type png)
 <use 2.2.2a.png>
-Package pdftex.def Info: 2.2.2a.png  used on input line 177.
+Package pdftex.def Info: 2.2.2a.png  used on input line 179.
 (pdftex.def)             Requested size: 180.67456pt x 115.43095pt.
 <2.2.2a2.png, id=38, 361.35pt x 230.8625pt>
 File: 2.2.2a2.png Graphic file (type png)
 <use 2.2.2a2.png>
-Package pdftex.def Info: 2.2.2a2.png  used on input line 178.
+Package pdftex.def Info: 2.2.2a2.png  used on input line 180.
 (pdftex.def)             Requested size: 180.67456pt x 115.43095pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--179
+Underfull \hbox (badness 10000) in paragraph at lines 178--181
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
 
@@ -419,42 +419,42 @@ We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
 [6 <./2.2.2a.png (PNG copy)> <./2.2.2a2.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 197--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
 
  []
 
 <2.2.2b.png, id=42, 361.35pt x 228.855pt>
 File: 2.2.2b.png Graphic file (type png)
 <use 2.2.2b.png>
-Package pdftex.def Info: 2.2.2b.png  used on input line 203.
+Package pdftex.def Info: 2.2.2b.png  used on input line 205.
 (pdftex.def)             Requested size: 180.67456pt x 114.42722pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--204
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 <2.2.2c.png, id=43, 361.35pt x 223.83624pt>
 File: 2.2.2c.png Graphic file (type png)
 <use 2.2.2c.png>
-Package pdftex.def Info: 2.2.2c.png  used on input line 214.
+Package pdftex.def Info: 2.2.2c.png  used on input line 216.
 (pdftex.def)             Requested size: 180.67456pt x 111.91785pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--215
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
@@ -462,15 +462,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--217
 <2.2.2d.png, id=48, 361.35pt x 230.8625pt>
 File: 2.2.2d.png Graphic file (type png)
 <use 2.2.2d.png>
-Package pdftex.def Info: 2.2.2d.png  used on input line 225.
+Package pdftex.def Info: 2.2.2d.png  used on input line 227.
 (pdftex.def)             Requested size: 180.67456pt x 115.43095pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--226
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 226--228
 
  []
 
@@ -479,14 +474,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
 [8 <./2.2.2d.png (PNG copy)>]
 <2.2.2d_py.png, id=52, 462.528pt x 346.896pt>
 File: 2.2.2d_py.png Graphic file (type png)
 <use 2.2.2d_py.png>
-Package pdftex.def Info: 2.2.2d_py.png  used on input line 251.
+Package pdftex.def Info: 2.2.2d_py.png  used on input line 253.
 (pdftex.def)             Requested size: 231.26343pt x 173.44757pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--252
+Underfull \hbox (badness 10000) in paragraph at lines 252--254
 
  []
 
@@ -517,7 +517,7 @@ e1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1
 blic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1000.pfb>
-Output written on Project_1.pdf (9 pages, 354840 bytes).
+Output written on Project_1.pdf (9 pages, 356169 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  54 compressed objects within 1 object stream
